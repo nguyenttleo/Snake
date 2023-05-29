@@ -23,7 +23,7 @@ To run the Snake Game, make sure you have Python installed along with the requir
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/your-username/SnakeGame.git
+   git clone https://github.com/nguyenttleo/SnakeGame.git
    ```
 
 2. Install the required dependencies:
