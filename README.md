@@ -1,6 +1,6 @@
 # Snake Game
 
-Welcome to the visually stunning Snake Game! This classic game is built using the Pygame library and offers a fun and addictive gameplay experience.
+This classic game is built using the Pygame library and offers a fun and addictive gameplay experience.
 
 ## How to Play
 
